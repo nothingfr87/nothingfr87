@@ -2,11 +2,6 @@
 
 I am a Front-End Developer with a solid foundation in web technologies, currently expanding my expertise in Back-End development, modern Front-End frameworks, and other programming languages. I am passionate about building efficient, user-friendly applications and continuously enhancing my skills.
 
-# Current Projects
-
-## [**Adhan**](https://github.com/nothingfr87/Adhan)  
-A project that helps users keep track of prayer times, Hijri dates, and next prayers, featuring multiple calculation methods.
-
 # Tech Stack
 
 ### Front-End
